@@ -1,3 +1,8 @@
+#
+# numerical solution to 2 projectiles collidiing
+# https://youtu.be/qxSlbuK7b1I
+#
+
 from sympy import symbols, Eq, solve, sin, cos, pi
 
 # Define variables
