@@ -1,6 +1,6 @@
 #
 # numerical solution to 2 clay balls rising and falling vertically, colliding and sticking
-# https://youtu.be/
+# https://youtu.be/C2eMeFgAFZI
 #
 
 from sympy import symbols, Eq, solve, sin, cos, pi
