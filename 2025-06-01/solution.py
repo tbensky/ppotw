@@ -1,6 +1,6 @@
 #
 # numerical solution to atwood machine with energy
-# https://youtu.be/
+# https://youtu.be/idhdRJ_a71M
 #
 
 from sympy import symbols, Eq, solve, sin, cos, pi
