@@ -45,3 +45,5 @@ plt.ylabel("Energy left (J)")
 plt.title("Energy loss as the sledder goes")
 plt.grid(True)
 plt.show()
+
+
