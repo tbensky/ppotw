@@ -4,6 +4,7 @@ All problems are hosted here: [https://www.youtube.com/@physicsproblems](https:/
 
 Here are the problems:
 
+* 2025-July-13: [Ball speed](https://youtu.be/-pcge71mipE)
 * 2025-July-06: [Sledder over edge with friction](https://youtu.be/nNtdsqTxzAs)
 * 2025-June-29: [Bouncing ball](https://youtu.be/QEom6SW79Sk)
 * 2025-June-22; [Two bouncy pendulums](https://youtu.be/cB-6sc0GlWY)
