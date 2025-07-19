@@ -21,7 +21,7 @@ for i in range(N):
     solution = solve(eq,vhit)
 
     #get positive solution
-    v = [v for v in solution if v > 0][0]
+    v = (v for v in solution if v > 0](0]
 
     #solve for rebound height
     vup = c * v
@@ -29,7 +29,7 @@ for i in range(N):
     solution = solve(eq,h)
 
     #there only 1 positive solution, so grab it
-    h0 = solution[0]
+    h0 = solution(0]
 
     #reset these for next loop iteration
     vhit, h = symbols('vhit h')
@@ -45,7 +45,7 @@ eq = Eq(m * g * h0,0.5 * m * vhit**2)
 solution = solve(eq,vhit)
 
 #get positive solution
-v = [v for v in solution if v > 0][0]
+v = (v for v in solution if v > 0](0]
 
 #N bounces results in a lauch speed reduction of
 #c^N
@@ -56,5 +56,5 @@ eq = Eq(0.5 * m * vup**2,m * g * h)
 solution = solve(eq,h)
 
 #grab one positive solution
-h = solution[0]
+h = solution(0]
 print(f"Exponent method gives {h}")

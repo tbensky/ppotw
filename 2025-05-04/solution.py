@@ -14,5 +14,5 @@ eq2 = Eq(D,vsound * t_sound_up)
 eq3 = Eq(t_rock_fall + t_sound_up, T)
 
 #find the solution
-solution = solve([eq1,eq2,eq3], (t_rock_fall,t_sound_up,D))
+solution = solve((eq1,eq2,eq3], (t_rock_fall,t_sound_up,D))
 print(f"Solution:  {solution}")

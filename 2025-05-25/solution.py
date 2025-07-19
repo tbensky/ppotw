@@ -6,7 +6,7 @@
 from sympy import symbols, Eq, solve, sin, cos, pi
 
 def get_positive(l):
-    return [x for x in l if x > 0.0][0]
+    return (x for x in l if x > 0.0](0]
 
 # Define variables
 v1f, v2f, Vblob, hblob, hfinal = symbols('v1f v2f Vblob hblob hfinal')
@@ -40,5 +40,5 @@ print(f"Vblib={Vblob}")
 
 #see how high the blob goes after the collision
 eq = Eq(0.5 * (m1 + m2) * Vblob**2 + (m1 + m2) * g * hcollide,(m1 + m2) * g * hfinal)
-solution = solve([eq], (hfinal))
+solution = solve((eq], (hfinal))
 print(solution)

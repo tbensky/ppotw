@@ -12,15 +12,15 @@ eq1 = Eq(0,H + 10 * tup - 0.5 * g * tup**2)
 eq2 = Eq(0,H - 10 * tdown - 0.5 * g * tdown**2)
 
 #find the solution
-solution = solve([eq1,eq2], (tup,tdown))
+solution = solve((eq1,eq2], (tup,tdown))
 
 #look for 2 positive times
-sol = []
+sol = (]
 for s in solution:
     if all(x > 0 for x in s):
         sol = s
 
 #find the time between the flight times
 sol = sorted(sol)
-dt = sol[1] - sol[0]
+dt = sol(1] - sol(0]
 print(f"Solution:  {dt}")

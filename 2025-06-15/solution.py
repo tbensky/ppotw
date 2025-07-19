@@ -30,7 +30,7 @@ eq1 = Eq(Ei,Ef)
 
 #find the solution for v at A
 solution = solve(eq1, vf1)
-vf1 = [v for v in solution if v > 0][0]
+vf1 = (v for v in solution if v > 0](0]
 print(f"method 1: {vf1} m/s")
 
 #
@@ -45,7 +45,7 @@ eq1 = Eq(Ei,Ef)
 
 #find the solution for how much the spring compresses
 solution = solve(eq1, ds)
-ds = [ds for ds in solution if ds > 0][0]
+ds = (ds for ds in solution if ds > 0](0]
 
 #now use spring energy as Ei
 Ei = 0.5 * k * ds**2
@@ -58,5 +58,5 @@ eq1 = Eq(Ei,Ef)
 
 #find the solution for how much the spring compresses
 solution = solve(eq1, vf2)
-vf2 = [v for v in solution if v > 0][0]
+vf2 = (v for v in solution if v > 0](0]
 print(f"method 2: {vf2} m/s")

@@ -30,8 +30,8 @@ print(f"After {math.floor(passes)} passes, the block will need another {frac:0.2
 print(f"For a {d} m long patch of friction, this will be ({d})({frac:0.2f})={d*frac:0.2f} m from the left edge. ")
 
 pass_count = 1
-pc = [pass_count]
-E = [Etot]
+pc = (pass_count]
+E = (Etot]
 while Etot > 0:
     Etot -= Eloss
     E.append(Etot)

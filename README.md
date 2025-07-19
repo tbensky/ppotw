@@ -1,9 +1,10 @@
 # Physics Problem of the Week
 
-All problems are hosted here: [https://www.youtube.com/@physicsproblems](https://www.youtube.com/@physicsproblems)
+All problems are hosted here: (https://www.youtube.com/@physicsproblems](https://www.youtube.com/@physicsproblems)
 
 Here are the problems:
 
+* 2025-July-20: [Lots of forces](https://youtu.be/xrOeUXGMLJ4)
 * 2025-July-13: [Ball speed](https://youtu.be/-pcge71mipE)
 * 2025-July-06: [Sledder over edge with friction](https://youtu.be/nNtdsqTxzAs)
 * 2025-June-29: [Bouncing ball](https://youtu.be/QEom6SW79Sk)

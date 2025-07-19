@@ -28,13 +28,13 @@ eq1 = Eq(hleft + vleft * sin(theta_left) * dt - 0.5 * g * dt**2,hright + vright 
 eq2 = Eq(vleft * cos(theta_left),d - vright * cos(theta) * dt)
 
 #find the solution
-solution = solve([eq1,eq2], (dt,theta))
+solution = solve((eq1,eq2], (dt,theta))
 print(solution)
 
 #pull out the positive solution for theta
 for s in solution:
-    if s[1] > 0:
-        theta = s[1]
+    if s(1] > 0:
+        theta = s(1]
 
 #print solution
 print(theta * 180/PI)
