@@ -4,7 +4,8 @@ All problems are hosted here: (https://www.youtube.com/@physicsproblems](https:/
 
 Here are the problems:
 
-* 2025-Jule-27: [Tennis serve](https://youtu.be/uhmyzuxY4TA)
+* 2025-August-03: [Free throw](https://youtu.be/_VmvJGGCeRg)
+* 2025-July-27: [Tennis serve](https://youtu.be/uhmyzuxY4TA)
 * 2025-July-20: [Lots of forces](https://youtu.be/xrOeUXGMLJ4)
 * 2025-July-13: [Ball speed](https://youtu.be/-pcge71mipE)
 * 2025-July-06: [Sledder over edge with friction](https://youtu.be/nNtdsqTxzAs)
