@@ -4,6 +4,9 @@ All problems are hosted here: (https://www.youtube.com/@physicsproblems](https:/
 
 Here are the problems:
 
+* 2025-August-24: [v down to 89.9999999 degrees](https://youtu.be/Jj4VzIojarg)
+* 2025-August-17: [Angle to hit red spot](https://youtu.be/Q8iHjLSyRpY)
+* 2025-August-10: [Ball through hole in wall](https://youtu.be/ZE-JZX5pbFM)
 * 2025-August-03: [Free throw](https://youtu.be/_VmvJGGCeRg)
 * 2025-July-27: [Tennis serve](https://youtu.be/uhmyzuxY4TA)
 * 2025-July-20: [Lots of forces](https://youtu.be/xrOeUXGMLJ4)
